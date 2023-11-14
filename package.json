@@ -1,5 +1,5 @@
 {
-  "name": "xmysql",
+  "name": "pxmysql",
   "version": "0.6.0",
   "description": "One command to generate REST APIs for any MySql database",
   "main": "index.js",
@@ -19,9 +19,9 @@
   "bin": {
     "xmysql": "bin/index.js"
   },
-  "repository": "o1lab/xmysql",
-  "homepage": "https://github.com/nocodb/nocodb",
-  "author": "o1lab",
+  "repository": "pgirgaonkar/xmysql",
+  "homepage": "https://github.com/pgirgaonkar/xmysql",
+  "author": "o1lab->pgirgaonkar",
   "license": "MIT",
   "dependencies": {
     "assert": "^1.4.1",
